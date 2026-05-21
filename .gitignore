@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+
+# Local/runtime state
+tunnel.json
+*.log
+
+# Alternative package-manager lockfiles not used by this setup
+bun.lock
