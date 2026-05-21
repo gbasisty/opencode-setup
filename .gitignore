@@ -3,6 +3,7 @@
 
 # Keep git metadata and the public opencode setup directories.
 !.gitignore
+!README.md
 !commands/
 !commands/**
 !agents/
