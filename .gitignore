@@ -9,6 +9,7 @@
 !agents/
 !agents/**
 agents/scalping-trader.md
+agents/product-strategist.md
 !skills/
 !skills/**
 
