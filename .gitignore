@@ -1,9 +1,18 @@
+# Ignore everything by default.
+*
+
+# Keep git metadata and the public opencode setup directories.
+!.gitignore
+!commands/
+!commands/**
+!agents/
+!agents/**
+!skills/
+!skills/**
+
+# Always ignore local/generated dependency and runtime state even if nested.
 node_modules/
+**/node_modules/
 .DS_Store
-
-# Local/runtime state
-tunnel.json
 *.log
-
-# Alternative package-manager lockfiles not used by this setup
-bun.lock
+tunnel.json
