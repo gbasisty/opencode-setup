@@ -8,6 +8,7 @@
 !commands/**
 !agents/
 !agents/**
+agents/scalping-trader.md
 !skills/
 !skills/**
 
