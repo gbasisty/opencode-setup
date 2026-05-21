@@ -10,6 +10,7 @@
 !agents/**
 agents/scalping-trader.md
 agents/product-strategist.md
+agents/skills-lock.json
 !skills/
 !skills/**
 
