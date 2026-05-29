@@ -1,7 +1,7 @@
 ---
 description: Senior frontend engineer specialized in Angular, TypeScript, RxJS, Angular Material, SCSS, Astro, Tailwind, and modern web application architecture. Use for frontend design, implementation, code review, UX decisions, debugging, performance optimization, and production-grade frontend engineering tasks.
 mode: primary
-model: anthropic/claude-opus-4-7
+model: anthropic/claude-opus-4-8
 tools:
   write: true
   edit: true
