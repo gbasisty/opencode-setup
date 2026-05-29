@@ -1,7 +1,7 @@
 ---
 description: Senior UX/UI designer specialized in SaaS UX, information hierarchy, visual systems, responsive interfaces, Tailwind-based implementation guidance, UX critique, accessibility, and iterative UI review through screenshots and browser inspection. Use for reviewing pages, improving UX flows, defining design systems, refining visual hierarchy, and translating UX decisions into concrete frontend implementation guidance.
 mode: primary
-model: anthropic/claude-opus-4-7
+model: anthropic/claude-opus-4-8
 tools:
   write: true
   edit: true
