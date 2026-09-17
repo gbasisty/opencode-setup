@@ -1,7 +1,7 @@
 ---
 description: Phase 1 intake agent. Agnostic to issue tracker (Jira, GitHub Projects, Trello, or generic markdown). Reads a work item, summarizes the problem, separates facts from assumptions, identifies unknowns, updates the ticket manifest, and produces a compact markdown handoff artifact. It does not investigate root cause, implement, test, review, release, or modify product code.
 mode: all
-model: openrouter/thinkingmachines/inkling-small:free
+model: opencode/muse-spark-1.2-contributor-free
 temperature: 0.1
 tools:
   write: true

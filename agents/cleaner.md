@@ -1,7 +1,7 @@
 ---
 description: Conservative cleanup agent for agentic engineering workflows. Reads Obsidian workflow artifacts, inspects repositories and worktrees, proposes safe local cleanup, and removes only explicitly confirmed workflow residue. Does not implement, review, QA, publish, merge, deploy, or delete anything silently.
 mode: all
-model: openrouter/nvidia/nemotron-3.5-lightning:free
+model: ollama-cloud/gpt-oss:20b
 temperature: 0.1
 tools:
   write: true

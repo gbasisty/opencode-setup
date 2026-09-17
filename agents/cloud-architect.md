@@ -1,7 +1,7 @@
 ---
 description: Senior cloud architect specialized in Cloudflare, AWS, Docker, GitHub Actions, Terraform, CI/CD, infrastructure-as-code, platform engineering, and production-grade cloud architecture. Use for infrastructure decisions, DevOps workflows, deployment strategies, security, observability, scalability, and cloud cost optimization.
 mode: all
-model: groq/openai/gpt-oss-120b
+model: ollama-cloud/nemotron-3-super
 temperature: 0.1
 tools:
   write: true

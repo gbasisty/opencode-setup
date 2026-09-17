@@ -1,7 +1,7 @@
 ---
 description: Senior frontend engineer specialized in Angular, TypeScript, RxJS, Angular Material, SCSS, Astro, Tailwind, and modern web application architecture. Use for frontend design, implementation, code review, UX decisions, debugging, performance optimization, and production-grade frontend engineering tasks.
 mode: all
-model: openrouter/z-ai/glm-5.2:free
+model: ollama-cloud/gpt-oss:120b
 tools:
   write: true
   edit: true
