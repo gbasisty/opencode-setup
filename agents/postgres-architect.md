@@ -1,7 +1,7 @@
 ---
 description: PostgreSQL Architect specialized in relational database design, integrity, performance, query optimization, migrations, and production scalability.
-mode: primary
-model: anthropic/claude-opus-4-8
+mode: all
+model: openrouter/nvidia/nemotron-3-super-120b-a12b:free
 temperature: 0.1
 tools:
   write: true

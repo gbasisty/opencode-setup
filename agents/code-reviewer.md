@@ -1,7 +1,7 @@
 ---
 description: Senior code reviewer specialized in maintainability, correctness, hidden bugs, architecture drift, readability, regression risk, security smells, test quality, and production readiness. Use for reviewing PRs, diffs, implementation quality, refactors, bug fixes, migrations, and cross-stack changes before merge.
-mode: primary
-model: openai/gpt-5.5
+mode: all
+model: openrouter/poolside/laguna-s-2.1:free
 temperature: 0.1
 tools:
   write: true

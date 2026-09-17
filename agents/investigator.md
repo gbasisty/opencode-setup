@@ -1,7 +1,7 @@
 ---
 description: Phase 2 investigation agent. Consumes the intake artifact and ticket manifest, inspects the real implementation flow, validates or rejects hypotheses, identifies the actual root cause, determines blast radius, updates the manifest, and produces a compact investigation handoff artifact. Does not implement, test, review, or perform release operations.
-mode: primary
-model: anthropic/claude-sonnet-4-6
+mode: all
+model: opencode/muse-spark-1.3-contributor-free
 temperature: 0.1
 tools:
   write: true

@@ -1,7 +1,7 @@
 ---
 description: Publisher for agentic engineering workflows. Safely publishes reviewed and locally validated work from local worktrees into git commits, pushed branches, and optionally PRs after running command-defined readiness checks. Does not implement, review, QA, merge, downmerge, deploy, or clean up.
-mode: primary
-model: anthropic/claude-sonnet-4-6
+mode: all
+model: openrouter/nvidia/nemotron-3.5-lightning:free
 temperature: 0.1
 tools:
   write: true

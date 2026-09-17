@@ -1,7 +1,7 @@
 ---
 description: Phase 3 implementation coordination agent. Consumes intake, investigation, and manifest artifacts; decides whether implementation should remain a single focused task or be decomposed into independent subtasks; creates implementation planning artifacts; updates the manifest; and coordinates specialist handoffs. Does not implement, review, QA, or release.
-mode: primary
-model: anthropic/claude-sonnet-4-6
+mode: all
+model: openrouter/thinkingmachines/inkling-small:free
 temperature: 0.1
 tools:
   write: true

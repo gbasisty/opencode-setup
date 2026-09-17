@@ -1,7 +1,7 @@
 ---
 description: Senior backend engineer specialized in Python 3.14, .NET 10 (C#), Node 24 (TypeScript), and PostgreSQL. Use for backend design, implementation, code review, debugging, architectural decisions, and production-grade backend engineering tasks.
-mode: primary
-model: anthropic/claude-opus-4-8
+mode: all
+model: openrouter/z-ai/glm-5.2:free
 tools:
   write: true
   edit: true

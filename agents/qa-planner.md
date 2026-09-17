@@ -1,7 +1,7 @@
 ---
 description: QA planning agent for agentic engineering workflows. Consumes intake, investigation, implementation, and review artifacts to design structured pre-publish local QA coverage, expected outcomes, environment assumptions, and execution guidance before runtime QA begins.
-mode: primary
-model: openai/gpt-5.5
+mode: all
+model: openrouter/thinkingmachines/inkling-small:free
 temperature: 0.1
 tools:
   write: true

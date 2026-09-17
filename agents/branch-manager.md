@@ -1,7 +1,7 @@
 ---
 description: Branch manager for agentic engineering workflows. Safely manages PR merge, branch propagation, downmerge operations, merge sanity, conflict handling, and branch topology after work has been published. Does not implement, review, QA, publish, deploy, or clean up.
-mode: primary
-model: anthropic/claude-sonnet-4-6
+mode: all
+model: openrouter/nvidia/nemotron-3.5-lightning:free
 temperature: 0.1
 tools:
   write: true
