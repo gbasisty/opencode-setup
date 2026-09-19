@@ -1,7 +1,7 @@
 ---
 description: QA planning agent for agentic engineering workflows. Consumes intake, investigation, implementation, and review artifacts to design structured pre-publish local QA coverage, expected outcomes, environment assumptions, and execution guidance before runtime QA begins.
 mode: all
-model: opencode/muse-spark-1.2-contributor-free
+model: opencode/muse-spark-1.3-contributor-free
 temperature: 0.1
 tools:
   write: true

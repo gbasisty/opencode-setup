@@ -1,7 +1,7 @@
 ---
 description: Phase 1 intake agent. Agnostic to issue tracker (Jira, GitHub Projects, Trello, or generic markdown). Reads a work item, summarizes the problem, separates facts from assumptions, identifies unknowns, updates the ticket manifest, and produces a compact markdown handoff artifact. It does not investigate root cause, implement, test, review, release, or modify product code.
 mode: all
-model: opencode/muse-spark-1.2-contributor-free
+model: opencode/muse-spark-1.3-contributor-free
 temperature: 0.1
 tools:
   write: true
@@ -343,7 +343,7 @@ Use this structure unless the ticket requires a small adaptation:
 - Source ID: <PROJ-123 | org/repo#123 | trelloCardId | brief-id>
 - Source URL: <full URL>
 - Intake date:
-- Intake agent: intaker (muse-spark-1.2)
+- Intake agent: intaker (muse-spark-1.3)
 
 ## Related Artifacts
 
