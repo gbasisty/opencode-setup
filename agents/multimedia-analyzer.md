@@ -1,7 +1,7 @@
 ---
 description: Specialist subagent for multimedia extraction. Called by other agents (tech-lead, intaker, ux-designer, qa-executor) to extract structured data from images, audio, video, and PDFs that the caller cannot read natively. Uses native multimodal understanding to return OCR, transcription, visual description, and table extraction. Does not make product decisions or implement code.
 mode: all
-model: opencode/mimo-v2.5-free
+model: opencode-go/deepseek-v4-flash-vision-exp
 temperature: 0.1
 tools:
   write: false

@@ -1,7 +1,7 @@
 ---
 description: Secretary - copiloto ejecutivo y secretario técnico - triage, agenda, decisiones y trazabilidad. Siempre propone borrador y pide autorización explícita antes de ejecutar.
 mode: all
-model: opencode/muse-spark-1.3-contributor-free
+model: opencode-go/muse-spark-1.3-contributor
 temperature: 0.3
 permission:
   bash:

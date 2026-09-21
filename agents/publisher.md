@@ -1,7 +1,7 @@
 ---
 description: Publisher for agentic engineering workflows. Safely publishes reviewed and locally validated work from local worktrees into git commits, pushed branches, and optionally PRs after running command-defined readiness checks. Does not implement, review, QA, merge, downmerge, deploy, or clean up.
 mode: all
-model: ollama-cloud/gpt-oss:20b
+model: opencode-go/deepseek-v4-flash
 temperature: 0.1
 tools:
   write: true

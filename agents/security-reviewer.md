@@ -1,7 +1,7 @@
 ---
 description: Senior application security reviewer specialized in authentication, authorization, multi-tenancy, secrets, input validation, injection risks, IDOR, XSS, CSRF, SSRF, data exposure, dependency risk, cloud/IAM security, and production-grade security review. Use for security reviews of PRs, APIs, auth flows, infrastructure, database access, compliance-sensitive changes, and threat modeling.
 mode: all
-model: ollama-cloud/nemotron-3-ultra
+model: opencode-go/qwen3.7-max
 temperature: 0.1
 tools:
   write: false

@@ -1,7 +1,7 @@
 ---
 description: PostgreSQL Architect specialized in relational database design, integrity, performance, query optimization, migrations, and production scalability.
 mode: all
-model: ollama-cloud/nemotron-3-super
+model: opencode-go/kimi-k2.7-code
 temperature: 0.1
 tools:
   write: true
